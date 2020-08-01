@@ -1,0 +1,5 @@
+com\pokedex\reactiveWeb\model\PokemonEvent.class
+com\pokedex\reactiveWeb\repository\PokemonRepository.class
+com\pokedex\reactiveWeb\Controller\PokedexController.class
+com\pokedex\reactiveWeb\model\Pokemon.class
+com\pokedex\reactiveWeb\ReactiveWebApplication.class
